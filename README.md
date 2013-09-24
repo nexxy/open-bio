@@ -1,4 +1,4 @@
-promo-bio
+open-bio
 =========
 
-Nexxy needs a promo-bio, pull requests welcome.
+Nexxy needs a bio, pull requests welcome.
